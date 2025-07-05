@@ -8,4 +8,4 @@ def fibonacci(n):
     print()
 
 if __name__ == "__main__":
-    fibonacci(10)
+    fibonacci(8)
