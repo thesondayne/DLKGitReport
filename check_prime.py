@@ -9,6 +9,6 @@ def is_prime(n):
     return True
 
 if __name__ == "__main__":
-    num = 17
+    num = 19
     print(f"{num} is prime:", is_prime(num))
 
